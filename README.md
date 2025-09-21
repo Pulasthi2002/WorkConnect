@@ -1,0 +1,3 @@
+WorkConnect - Service Matching Platform
+
+WorkConnect is a comprehensive digital marketplace built with PHP, JavaScript, Python, and MySQL that efficiently connects customers seeking professional services with skilled service providers. The platform features AI-powered intelligent matching algorithms,  real-time communication through built-in messaging, comprehensive mutual rating systems, and responsive design that works across all devices. Built using modern web technologies including HTML5, CSS3, RESTful APIs, Flask for machine learning services, and JWT authentication for security, the platform provides role-based access control for customers, service providers, and administrators.
